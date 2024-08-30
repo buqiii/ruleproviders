@@ -15,6 +15,9 @@ payload:
   - DST-PORT,6887
   - DST-PORT,6888
   - DST-PORT,6889
+  #DNS
+  - IP-CIDR,119.29.29.29/32,no-resolve
+  - IP-CIDR,114.114.114.114/32,no-resolve
   # check first
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,bilibili.com
