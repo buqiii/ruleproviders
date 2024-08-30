@@ -1,6 +1,0 @@
-payload:
-  #经常使用
-  - DOMAIN,dns.google
-  - IP-CIDR,1.1.1.1/32,no-resolve
-  - IP-CIDR,1.0.0.1/32,no-resolve
-  - IP-CIDR,8.8.8.8/32,no-resolve
