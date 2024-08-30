@@ -1,12 +1,2 @@
 payload:
   #经常使用
-  - DOMAIN-SUFFIX,erp321.com,DIRECT
-  - DOMAIN-SUFFIX,jinritemai.com,DIRECT
-  - DOMAIN-SUFFIX,oceanengine.com,DIRECT
-  - DOMAIN-SUFFIX,perplexity.ai,🇭🇰 香港节点
-  - RULE-SET,OpenAi,🤖 ChatGPT
-  - DOMAIN-SUFFIX,notion.so,🇭🇰 香港节点
-  - DOMAIN-SUFFIX,po18.tw,🇨🇳 台湾节点
-  - DOMAIN-SUFFIX,vidhub.me,🚀 节点选择
-  - RULE-SET,mylist-proxy,🚀 节点选择
-  - RULE-SET,mylist-direct,DIRECT
