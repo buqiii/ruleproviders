@@ -18,6 +18,8 @@ payload:
   #DNS
   - IP-CIDR,119.29.29.29/32,no-resolve
   - IP-CIDR,114.114.114.114/32,no-resolve
+  #
+  - DOMAIN-SUFFIX,cn
   # check first
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,bilibili.com
@@ -30,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,com.cn
+
